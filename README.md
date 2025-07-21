@@ -4,7 +4,7 @@ This is a basic calculator app built with Python's `tkinter` library. It provide
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Interactive GUI using Tkinter
 - Basic number input (0–9)
@@ -34,6 +34,6 @@ This is a basic calculator app built with Python's `tkinter` library. It provide
 
 ---
 
-## 🔧 How to Run the Project
+##  How to Run the Project
 
 1. Make sure Python is installed:
