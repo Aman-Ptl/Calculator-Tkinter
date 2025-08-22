@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator using Tkinter (Python GUI)
+#  Simple Calculator using Tkinter (Python GUI)
 
 This is a basic calculator app built with Python's `tkinter` library. It provides a graphical user interface (GUI) to perform simple arithmetic operations such as addition, subtraction, multiplication, division, modulus, and power.
 
@@ -20,14 +20,14 @@ This is a basic calculator app built with Python's `tkinter` library. It provide
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.x
 - Tkinter (Standard Python GUI library)
 
 ---
 
-## 📷 GUI Preview
+## GUI Preview
 
 ![Calculator UI Preview](screenshot.png)  
 *(Add a screenshot of your app here)*
